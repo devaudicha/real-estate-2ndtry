@@ -42,7 +42,7 @@ export default function About() {
         </div>
         <div className="flex items-center justify-center bg-slate-100 p-6 rounded-lg shadow-md">
           <FaPhone className="text-2xl text-navy-900 mr-4" />
-          <span className="text-slate-700 font-semibold">+91 98765 43210</span>
+          <span className="text-slate-700 font-semibold">+91 8452 836406</span>
         </div>
       </div>
     </div>
